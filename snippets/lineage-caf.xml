@@ -54,7 +54,7 @@
     <project path="vendor/qcom/opensource/commonsys/display" remote="lineage-caf" name="android_vendor_qcom_opensource_display-commonsys" groups="qcom,qssi" revision="lineage-19.1" />
     <project path="vendor/qcom/opensource/core-utils-sys" remote="lineage-caf" name="android_vendor_qcom_opensource_core-utils-sys" groups="qcom,qssi" />
     <project path="vendor/qcom/opensource/core-utils-vendor" remote="lineage-caf" name="android_vendor_qcom_opensource_core-utils-vendor" groups="qcom,waipio-vendor" />
-    <project path="vendor/qcom/opensource/display" remote="lineage-caf" name="android_vendor_qcom_opensource_display" groups="qcom" lineage-19.1 />
+    <project path="vendor/qcom/opensource/display" remote="lineage-caf" name="android_vendor_qcom_opensource_display" groups="qcom" revision="lineage-19.1" />
     <project path="vendor/qcom/opensource/fm-commonsys" remote="lineage-caf" name="android_vendor_qcom_opensource_fm-commonsys" groups="qcom,qssi" />
     <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" remote="lineage-caf" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,waipio-vendor" />
     <project path="vendor/qcom/opensource/data-ipa-cfg-mgr-legacy-um" remote="lineage-caf" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,lahaina" revision="lineage-20.0-legacy-um" />
